@@ -109,7 +109,7 @@ goto(-100,25)
 end_fill()
 
 
-
 #fin lineas y figuras
 
 exitonclick()
+#click para finalizar y cerrar ventana
