@@ -1,0 +1,3 @@
+# Proyecto IBM Clouding + Python GUI
+
+### En este pequeño proyecto hago uso de unas de las tantas funciones de que nos presente IBM Clouding que es una base de datos en la nube gratuita de 1 GB. En este caso la implemente con Python para la insercion de datos y la visualizacion de los mismos datos. Esto de forma rapida y entretenida. Les comparto el codigo con mis credenciales, las cuales pronto caducaran, asi que no importa si las toman. 
