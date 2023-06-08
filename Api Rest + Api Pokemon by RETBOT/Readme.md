@@ -4,3 +4,6 @@
 
 ### Link del GitHub de <a href="https://github.com/RETBOT">RETBOT</a>
 
+### Como despedida les muestro a mi Pokemon favorito!
+
+![GIT](https://github.com/Ivan-Herrera-Garcia/Things-with-Python/assets/71898783/af8e1836-a6b5-47ac-9bc5-b59d062918d2)
